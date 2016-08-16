@@ -1,6 +1,6 @@
 Use `npm install --only="dev"` to install grunt modules. Grunt must be installed globally.
 
-`grunt build` will create a zip file from the src and docs directorys in the build folder.
+`grunt build` will create a zip file from the src and docs directories in the build folder.
 
 Docker-compose up will build a develop environment from the docker_root folder. The site should be available at http://localhost and phpmyadmin at http://localhost:8080
 
